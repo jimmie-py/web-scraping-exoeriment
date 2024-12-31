@@ -1,2 +1,2 @@
-# web-scraping-exoeriment
-Experimental weed scraping project using agentQL
+# web-scraping-experiment
+Experimental web scraping project using agentQL
